@@ -5,7 +5,7 @@ Coefficients of the polynomial functions optimized by the differential evolution
 
 Each row consists of 'sequantial number', 'order', 'NMA sites C1(1), C(2), O(3), N(4), H(5), C2(6))', 'water sites (O(1), H(2))', 'optimized coefficient'.
 
-The following is the weight parameters of neural networks. 
+**The following is the weight parameters of neural networks.** 
 
 The files should be read in by using the load_weights() method. 
 For example, after defining the architecture of the network 'model', invoke
