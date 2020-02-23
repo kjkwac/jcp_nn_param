@@ -9,7 +9,7 @@ Each row consists of 'sequantial number', 'order', 'NMA sites C1(1), C(2), O(3),
 
 The files should be read in by using the load_weights() method. 
 For example, after defining the architecture of the network 'model', invoke
-    model.load_weights('weights_20_20_1_relu_s1_ACSF_I.h5')
+>model.load_weights('weights_20_20_1_relu_s1_ACSF_I.h5')
 
 ## weights_20_20_1_relu_s1_ACSF_I.h5
 
